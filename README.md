@@ -17,14 +17,19 @@ A single web page provides browser access to basic weather data.
 **Prerequisites:**
 
 Apache server
+
 mySQL (mariaDB)
+
 PHP 7.x
+
 phpMyAdmin (optional)
 
 **Setup**
 
-Create Database `weather`;
+'Create Database `weather`;'
+
 Run DefineTables.sql
+
 Set appropriate server, DB, user & password in assets/inc/iConnect.php
 
 **Get repo:**
