@@ -12,7 +12,19 @@ from the WeatherPi application and providing data to the WeatherConsole applicat
 
 A single web page provides browser access to basic weather data.
 
+**Today's Weather:**
 ![Weather](images/WeatherServer_1.png?raw=true "Today's Weather")
+
+**30 Days:**
+![Weather](images/WeatherServer_1.png?raw=true "30 Days")
+
+**12 Months:**
+![Weather](images/WeatherServer_1.png?raw=true "12 Months")
+
+**30 Days Barometric Pressure:**
+![Weather](images/WeatherServer_1.png?raw=true "30 Days Barometric Pressure")
+
+
 
 **Prerequisites:**
 
@@ -23,6 +35,8 @@ mySQL (mariaDB)
 PHP 7.x
 
 phpMyAdmin (optional)
+
+
 
 **Setup**
 
