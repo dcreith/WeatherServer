@@ -1,0 +1,12 @@
+
+# DirectoryIndex: sets the file that Apache will serve if a directory is requested.
+# DirectoryIndex index.php /index.php
+
+DirectoryIndex /assets/err/lost.html
+
+
+# custom error documents
+ ErrorDocument 401 /assets/err/401.html
+ ErrorDocument 403 /assets/err/403.html
+ ErrorDocument 404 /assets/err/404.html
+ ErrorDocument 500 /assets/err/500.html
