@@ -12,7 +12,7 @@ from the WeatherPi application and providing data to the WeatherConsole applicat
 
 A single web page provides browser access to basic weather data.
 
-![Weather](/WeatherServer_1.png?raw=true "Today's Weather")
+![Weather](images/WeatherServer_1.png?raw=true "Today's Weather")
 
 **Prerequisites:**
 
