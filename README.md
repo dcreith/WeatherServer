@@ -16,13 +16,13 @@ A single web page provides browser access to basic weather data.
 ![Weather](images/WeatherServer_1.png?raw=true "Today's Weather")
 
 **30 Days:**
-![Weather](images/WeatherServer_1.png?raw=true "30 Days")
+![Weather](images/WeatherServer_2.png?raw=true "30 Days")
 
 **12 Months:**
-![Weather](images/WeatherServer_1.png?raw=true "12 Months")
+![Weather](images/WeatherServer_3.png?raw=true "12 Months")
 
 **30 Days Barometric Pressure:**
-![Weather](images/WeatherServer_1.png?raw=true "30 Days Barometric Pressure")
+![Weather](images/WeatherServer_4.png?raw=true "30 Days Barometric Pressure")
 
 
 
